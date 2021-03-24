@@ -10,6 +10,8 @@
 
 ---
 
+https://wmalcantara.github.io/animais-fantasticos/
+
 <img src="./assets/demo-1.gif" alt="caravan demo" />
 
 <img src="./assets/demo-2.gif" alt="caravan demo" width="180px"/>
